@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionPokemon", "FunctionPokemon\FunctionPokemon.csproj", "{1CDDFB4A-7362-4F28-9FC2-AA5EDB54259E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RauchTech.DataExtensions.Sql", "..\AzureAPI\RauchTech.DataExtensions.Sql\RauchTech.DataExtensions.Sql.csproj", "{B7050B95-2BA4-4A11-B59A-0B73BAAC2ABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RauchTech.DataExtensions.Sql", "RauchTech.DataExtensions.Sql\RauchTech.DataExtensions.Sql.csproj", "{321B2D25-C347-403C-B252-21E88DE36E3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{1CDDFB4A-7362-4F28-9FC2-AA5EDB54259E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CDDFB4A-7362-4F28-9FC2-AA5EDB54259E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CDDFB4A-7362-4F28-9FC2-AA5EDB54259E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7050B95-2BA4-4A11-B59A-0B73BAAC2ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7050B95-2BA4-4A11-B59A-0B73BAAC2ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7050B95-2BA4-4A11-B59A-0B73BAAC2ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7050B95-2BA4-4A11-B59A-0B73BAAC2ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321B2D25-C347-403C-B252-21E88DE36E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321B2D25-C347-403C-B252-21E88DE36E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321B2D25-C347-403C-B252-21E88DE36E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321B2D25-C347-403C-B252-21E88DE36E3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
